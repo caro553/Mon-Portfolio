@@ -33,3 +33,10 @@ Localisez le fichier principal HTML, généralement nommé `index.html`, dans le
 Ouvrez le fichier HTML principal dans un navigateur web en double-cliquant dessus, ou en faisant un clic droit sur le fichier et en sélectionnant "Ouvrir avec", puis en choisissant votre navigateur web préféré.
 
 Le portfolio s'exécutera dans votre navigateur et vous pourrez visualiser et interagir avec les différents projets présentés.
+
+## Accéder à mon portfolio en ligne
+
+Vous pouvez également consulter mon portfolio directement en ligne en cliquant sur le lien ci-dessous :
+
+[Mon Portfolio en ligne](https://caro553.github.io/index.html)
+
