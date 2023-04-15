@@ -38,5 +38,5 @@ Le portfolio s'exécutera dans votre navigateur et vous pourrez visualiser et in
 
 Vous pouvez également consulter mon portfolio directement en ligne en cliquant sur le lien ci-dessous :
 
-[Mon Portfolio en ligne]([https://caro553.github.io/index.html](https://github.com/caro553/Mon-Portfolio.git))
+[Mon Portfolio en ligne](https://username.github.io/repository/)
 
