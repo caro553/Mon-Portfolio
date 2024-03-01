@@ -309,10 +309,10 @@ section {
   width: 60%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 90%;
+  width: 100%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 95%;
+  width: 100%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .angular {
   width: 75%;
@@ -324,10 +324,31 @@ section {
   width: 70%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 50%;
+  width: 40%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .c {
-  width: 80%;
+  width: 30%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .sql {
+  width: 100%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .photoshop {
+  width: 20%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .illustrator {
+  width: 20%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .effect {
+  width: 20%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .modelisation {
+  width: 10%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .unity {
+  width: 50%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .csharp {
+  width: 50%;
 }
 
 .stat-title {
